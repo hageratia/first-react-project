@@ -1,0 +1,36 @@
+ .port-sec .star {
+     padding-bottom: 30px;
+     color: #2C3E50;
+ }
+ 
+ .port-sec .line-1,
+ .port-sec .line-2 {
+     margin-top: 5px;
+     background-color: #2C3E50;
+ }
+ 
+ .img-section {
+     cursor: pointer;
+ }
+ 
+ .layout {
+     background-color: rgba(26, 188, 156, .8);
+     opacity: 0;
+     transition: .5s opacity;
+ }
+ 
+ .layout i {
+     font-size: 80px;
+     font-weight: bold;
+ }
+ 
+ .img-section:hover .layout {
+     opacity: 1;
+ }
+ 
+ #slide {
+     background-color: rgba(43, 72, 112, .4);
+     z-index: 2000;
+     align-items: center;
+     justify-content: center;
+ }

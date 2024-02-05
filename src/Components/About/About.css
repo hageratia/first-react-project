@@ -1,0 +1,14 @@
+.about-sec {
+    background-color: #1ABC9C;
+    color: white;
+    padding: 120px;
+}
+
+.star {
+    padding-bottom: 30px;
+}
+
+.line-1,
+.line-2 {
+    margin-top: 5px;
+}

@@ -1,0 +1,26 @@
+.line-1,
+.line-2 {
+    width: 80px;
+    height: 4px;
+    background-color: white;
+}
+
+.home-sec {
+    background-color: #1ABC9C;
+    text-align: center;
+    color: white;
+    padding: 30px;
+}
+
+.star {
+    padding-bottom: 30px;
+}
+
+.line-1,
+.line-2 {
+    margin-top: 5px;
+}
+
+.img {
+    width: 250px;
+}

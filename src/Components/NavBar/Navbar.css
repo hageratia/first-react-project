@@ -1,0 +1,27 @@
+nav {
+    background-color: #2C3E50;
+    transition: .5s all;
+    z-index: 1000;
+}
+
+.padding {
+    padding: 1rem !important;
+}
+
+.navbar-scroll {
+    padding: 0.4rem !important;
+}
+
+.nav-link {
+    color: white;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding: 15px;
+}
+
+a.active,
+.active {
+    background-color: #1ABC9C;
+    transition: .5s all;
+}
